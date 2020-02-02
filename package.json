@@ -1,0 +1,21 @@
+{
+    "name": "baby-be-boppin-theme",
+    "displayName": "Baby Be Boppin' Theme",
+    "description": "Remember Baby Bop from \"Barney and Friends\"? This theme was inspired by her!  ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Baby be Boppin' Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Baby be Boppin' Theme-color-theme.json"
+            }
+        ]
+    }
+}
